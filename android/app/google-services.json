@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "412412092775",
+    "project_id": "baiexpress-9c7ca",
+    "storage_bucket": "baiexpress-9c7ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412412092775:android:5f36635793ef6c7b340fc2",
+        "android_client_info": {
+          "package_name": "com.baiexpress.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412412092775-iekn56e40ihh6hd8ibdcroqbc6rn8unh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baiexpress.customer",
+            "certificate_hash": "4cd56deeeb4613231f689af5e46f5e76e2ec2da2"
+          }
+        },
+        {
+          "client_id": "412412092775-hgig1sqm9rqbuqf6akmo21kovmiqcvig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWlkQydzinZ6dzeGys388g8t0B30_o8ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412412092775-hgig1sqm9rqbuqf6akmo21kovmiqcvig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412412092775-mc14di59ffca5hhklldlheo4pvop1cjq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.baiexpress.customer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
